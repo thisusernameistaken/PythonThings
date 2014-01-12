@@ -1,0 +1,34 @@
+J Programming Notes
+
++ == Add
+
+- == Subtract
+
+^ == Square
+
+
+% == Divide also Used for recprical
+
+* == Multiply
+
++/ == Sum or Addition Table
+
+*/ == Multiplication Table
+
+%/ == Divison Table
+
+~ == copy over aguments to the left -- TAb
+
+=: declare variable or method
+
+i.(NUM) == List of numbers from zero to NUM
+
+_(NUM) == NUM negative
+
+*. == Least Common Multiple
+
+! == Combinations [m!n] !!!FLIP FORM NORMALS!!!
+
+] == Identity
+
+
